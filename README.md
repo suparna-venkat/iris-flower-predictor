@@ -17,4 +17,4 @@ Achieved 96% accuracy on the test set!
 What I learned
 - How to train a classifier on real-world data
 - Visualizing using pairplots
-- ML is fun when it flowers 
+
