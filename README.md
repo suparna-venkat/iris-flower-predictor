@@ -9,7 +9,7 @@ My first ML project where I trained a Random Forest Classifier to predict iris f
 - Google Colab
 
 Accuracy
-Achieved 96% accuracy** on the test set!
+Achieved 96% accuracy on the test set!
 
  Visualization
 ![Pairplot](pairplot.png)
